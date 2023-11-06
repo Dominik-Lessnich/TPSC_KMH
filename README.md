@@ -18,7 +18,7 @@ You can clone this directory via
 git clone https://github.com/Dominik-Lessnich/TPSC_KMH.git
 ```
 
-The code makes use of the sparse-ir library (version 0.92.1) that can be installed with pip via
+The code makes use of the [<a href="https://github.com/SpM-lab/sparse-ir"> sparse-ir </a>] library (version 0.92.1) that can be installed with pip via
 
 ```bash
 pip install sparse-ir[xprec]
